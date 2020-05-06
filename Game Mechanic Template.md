@@ -1,5 +1,5 @@
 # <div align="center">Mechanic Title Goes Here</div>
-The summary of the mechanic goes here.
+*<p align="center">The summary of the mechanic goes here.</p>*
 
 ---
 
