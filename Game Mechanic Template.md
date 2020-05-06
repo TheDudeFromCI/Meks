@@ -3,6 +3,9 @@
 
 ---
 
+## Description
+The detailed description of the mechanic goes here.
+
 ## Advantages
 A descriptive list of advanges this mechanics makes available for the game.
 * Somtimes written as a bullet point list.
