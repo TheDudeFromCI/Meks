@@ -1,0 +1,2 @@
+# Game Grid
+The game grid mechanic is a simple mechanic which allows for a 2D, finite grid of a tiles to act as a board for the game. Game pieces may be placed on the grid taking up a static number of pieces on the grid. Generally speaking, two pieces cannot occupy the same spaces at once. Movement allows for a game piece for move in up to any of the 8 directions around the game piece, up to a specific number of times.
