@@ -23,3 +23,5 @@ How does this mechanic play with others? Does this mechanic offer anything that 
 
 ## Authors Notes
 An optional section in which the author can provide any additional details they wish to add.
+
+If you want to spice up your game mechanic with some better formatting or even some example images, you can find a good overview of using markdown [here](https://guides.github.com/features/mastering-markdown/) and [here](https://help.smash.gg/en/articles/1987102-customizing-text-with-markdown).
