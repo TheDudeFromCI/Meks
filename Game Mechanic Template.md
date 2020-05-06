@@ -1,4 +1,4 @@
-# Mechanic Title Goes Here
+# <div align="center">Mechanic Title Goes Here</div>
 The summary of the mechanic goes here.
 
 ---
